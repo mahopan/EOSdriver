@@ -1,0 +1,6 @@
+*.o
+*.mod
+*.a
+*.dSYM/
+driver
+one_zone
